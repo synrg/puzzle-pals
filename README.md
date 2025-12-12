@@ -4,7 +4,7 @@ A collection of scripts to facilitate group puzzle play.
 
 ## Installation
 
-- [Install uv](install-uv)
+- [Install uv](#install-uv)
 - Clone this repo:
 ```sh
 $ git clone https://github.com/synrg/puzzle-pals
