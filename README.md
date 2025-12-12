@@ -2,6 +2,9 @@
 
 A collection of scripts to facilitate group puzzle play.
 
+- [randompuz.py](#randompuzpy)
+    - A random jigsaw puzzle base image URL generator
+
 ## Installation
 
 - [Install uv](#install-uv)
