@@ -40,3 +40,17 @@ $ uv run randompuz [lowest-image-number] [highest-image-number]
     - subtracted from <code>highest-image-number</code> if negative
 - **highest-image-number** (optional)
     - default: first image # at https://jigsawpuzzles.io/browse/latest
+
+#### Examples
+
+Any random puzzle image:
+
+```sh
+$ uv run randompuz
+```
+
+Any of the latest 200 puzzle images:
+
+```sh
+$ uv run randompuz -200
+```
