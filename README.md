@@ -23,7 +23,7 @@ to install `uv` for your operating system.
 - Run each script with uv, e.g.
 ```sh
 $ cd puzzle-pals
-$ uv run randompuz
+$ uv run randompuz.py
 ```
 
 ## Scripts
@@ -35,7 +35,7 @@ A random jigsaw puzzle base image URL generator.
 #### Usage
 
 ```sh
-$ uv run randompuz [lowest-image-number] [highest-image-number]
+$ uv run randompuz.py [lowest-image-number] [highest-image-number]
 ```
 
 - **lowest-image-number** (optional)
@@ -49,11 +49,11 @@ $ uv run randompuz [lowest-image-number] [highest-image-number]
 Any random puzzle image:
 
 ```sh
-$ uv run randompuz
+$ uv run randompuz.py
 ```
 
 Any of the latest 200 puzzle images:
 
 ```sh
-$ uv run randompuz -200
+$ uv run randompuz.py -200
 ```
