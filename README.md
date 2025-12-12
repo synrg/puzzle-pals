@@ -57,3 +57,8 @@ Any of the latest 200 puzzle images:
 ```sh
 $ uv run randompuz.py -200
 ```
+
+#### About jigsawpuzzles.io
+
+- The author is not affiliated with this site. Please abide by their terms of use. If you have any questions about the site itself, please direct them to the site maintainer.
+- The site requires you to register an account and login to start your own puzzle.
