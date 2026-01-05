@@ -12,6 +12,7 @@ A collection of scripts to facilitate group puzzle play.
 ```sh
 $ git clone https://github.com/synrg/puzzle-pals
 ```
+- If you don't have Git, you can press the green **Code** button, **Download ZIP**, then extract it.
 
 ### Install uv
 
