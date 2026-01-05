@@ -21,7 +21,7 @@ to install `uv` for your operating system.
 
 ## Usage
 
-- Run each script with uv, e.g.
+- Run each script from a command prompt with uv, e.g.
 ```sh
 $ cd puzzle-pals
 $ uv run randompuz.py
